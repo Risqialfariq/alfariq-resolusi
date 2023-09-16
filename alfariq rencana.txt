@@ -1,4 +1,6 @@
 rencana konten
 - vlog mangan
+  * seblak
+  * mie ayam
 - vlog turing
 - vlog mini
