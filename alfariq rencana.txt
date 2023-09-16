@@ -3,7 +3,11 @@ rencana konten
   * seblak
     " jkt
   * mie ayam
-    " kampung
-- vlog turing
-  * to gunung
+- vlog with ayang
+- vlog turing 
+ * to gungung
+ * to curug
 - vlog mini
+- vlog kegiatan setiap hari
+ * keluarga
+ * pribadi
