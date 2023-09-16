@@ -8,3 +8,5 @@ rencana konten
  * to curug
 - vlog mini
 - vlog kegiatan setiap hari
+ * keluarga
+ * pribadi
